@@ -50,6 +50,8 @@ Pesos das atividades:
 
 ** A atividades 1-4 seguem uma sequência, então caso seja entregue a atividade 4 será considerado que as anteriores também foram feitas. **
 
+Para ganhar o certificado será necessário ter no mínimo 7 pontos.
+
 Qualquer duvida pode ser tirada no discord, classroom ou por email.
 
 Email:
