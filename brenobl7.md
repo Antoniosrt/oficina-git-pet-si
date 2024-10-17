@@ -9,3 +9,4 @@
 - git push
 - git pull
 - git merge
+- git checkout
