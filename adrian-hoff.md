@@ -11,3 +11,5 @@ Para começar os estudos de Git utilizando o ambiente no computador local com um
 - git commit -m "message" | git commit -m "title" -m "message"
 - git status
 - git push
+
+"essa é uma alteração proposital com o objetivo de adicionar uma versão na branch aula e dar o PR na main"
