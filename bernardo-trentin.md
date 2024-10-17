@@ -1,0 +1,4 @@
+commit
+add
+push
+pull
