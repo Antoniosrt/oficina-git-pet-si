@@ -2,4 +2,3 @@ git status
 git add .
 git commit -mm "mensagem"
 git push
-git pull
