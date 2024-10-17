@@ -4,3 +4,5 @@ git commit -mm "mensagem"
 git push
 git pull
 git push
+
+teste
