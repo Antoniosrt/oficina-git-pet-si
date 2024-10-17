@@ -11,3 +11,5 @@ ALTERAÇÃO NA BRANCH
 COMANDOS PRA INSTALAR
 sudo apt-get update
 sudo apt-get install git
+
+commit pelo vscode :)
