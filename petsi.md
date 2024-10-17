@@ -5,6 +5,8 @@ git commit -m "mensagem"
 git status
 git push
 
+ALTERAÇÃO NA BRANCH
+
 ---------
 COMANDOS PRA INSTALAR
 sudo apt-get update
